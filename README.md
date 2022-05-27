@@ -1,3 +1,10 @@
+Hello.
+How are you?
+I am vincent bell from Upwork.
+My Upwork account has been suspended for an unknown reason.
+So I can't login to my Upwork account right now.
+If possible, message me on telegram or discord so I can share the test task with you.
+
 # Frontend coding challenge - For DelphosIQ applicants
 
 # The purpose of this project is to give you an opportunity to showcase your coding style with NextJS
